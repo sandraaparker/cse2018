@@ -1,0 +1,23 @@
+body{
+  background: #ffffff url("images.jpeg") repeat right top;
+  text-align-last: center;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  color: white;
+}
+
+.image{
+  text-align: center;
+}
+
+p{
+  background-color: purple;
+}
